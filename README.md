@@ -3,4 +3,4 @@ UR2 Term Project Pick and Place arm:  image different shapes pick and sort them 
 
 Torsten Schill:
 
-Updating the SCD,STD,SqD,SBDT file and add some more Details to it.
+
